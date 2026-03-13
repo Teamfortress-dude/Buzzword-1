@@ -15,9 +15,9 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 
 **CAD**
 -
-**Buzzword-1 Rocket Diagram Made in OpenRocket**
+**Buzzword-1 Rocket Diagram Made in OpenRocket** OnShape: https://cad.onshape.com/documents/6395d56e8419870e36c364c0/w/89d10f0ab768237c661b4cfe/e/bca3e17cd6460ee306ad322d?renderMode=0&uiState=69b3e32ecdfe32eec0c45201
 
-<img width="1608" height="512" alt="Screenshot 2026-03-08 110152" src="https://github.com/user-attachments/assets/7ce2cc09-6c90-43da-b215-14541030f8d3" />
+
 
 **G112 EX Rocket Motor** OnShape: https://cad.onshape.com/documents/9d5704bc2d8bf989355a524c/w/8b6d99253b12667f572559fd/e/144e5694a96a8de6b9af8a30
 
