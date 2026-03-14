@@ -96,7 +96,7 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | XT30 Plug connector         | Allows battery to plug into BEC converter                | 1        | $0.53      | $0.53       | https://www.tokopedia.com/justshopit/amass-xt30-xt30u-plug-connector-female-male-lipo-battery-for-rc-fpv-drone-1729895395040659171 |
 | Heat shrink wire covers set | For cleaner and sturdier connections                     | 1        | $0.65      | $0.65       | https://www.tokopedia.com/skf88/heat-shrink-kabel-164-530pcs-isolasi-bakar-tube-selang-bakar-bahan-polyolefin-warna-warni-1732990049052886837 |
 | Wire stripper               | Used to strip wires                                      | 1        | $1.35      | $1.35       | https://www.tokopedia.com/neso-store/neso-german-tools-tang-kupas-potong-kabel-cod-6-7-9-inch-pemotong-wire-stripper-4in1-cutter-pliers-gunting-kupas-kabel-listrik-serbaguna-1731592431659091872 |
-| **Total Cost**              |                                                          |          |            | **$19.05**  | — |
+| **Total Cost**              |                                                          |          |            | **$18.38**  | — |
 
 ## 3. Rocket Body Construction
 | Item              | Description                                              | Quantity | Unit Price | Total Price | Link                |
