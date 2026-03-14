@@ -39,6 +39,10 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 
 <img width="1256" height="685" alt="Screenshot 2026-03-08 221629" src="https://github.com/user-attachments/assets/7342fc94-2b95-47af-a884-247608fc515c" />
 
+**Wireless Igniter** OnShape: https://cad.onshape.com/documents/17522f05e2172b3d15a9535d/w/4dee14af77d33351ef336225/e/4c8c179b079365a7d7b485c3?renderMode=0&uiState=69b4f15531e57fabf6704945
+
+
+
 **Wiring Diagrams**
 -
 **CO2 Ejection System Wiring Diagram**
