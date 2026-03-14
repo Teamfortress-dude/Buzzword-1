@@ -92,7 +92,7 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | 28 AWG Wire                 | Connector between ESP32 and GY-BMP-280                   | 1        | $0.12      | $0.12       | https://www.tokopedia.com/cncstorebandung/kabel-serabut-awg-28-awg28-high-quality-hitam |
 | 5V 3A BEC Converter         | Converter between 7.4V 2S LiPo battery and components    | 1        | $1.90      | $1.90       | https://www.tokopedia.com/alladinshop/bluesky-3a-5v-ubec-bec-vdc-dc-converter-step-down-module-mini-fpv |
 | 350 mAh 2S LiPo Battery     | Main power source for onboard avionics                   | 1        | $4.24      | $4.24       | https://www.tokopedia.com/justshopit/cnhl-lihv-ministar-hv-350mah-7-6v-2s-70c-lipo-battery-xt30 |
-| Battery charger             | Used to charge the battery                               | 1        | $2.67      | $2.67       | https://www.tokopedia.com/dx-tronics/harga-satuan-imax-b3-pro-b3ac-lipo-balance-charger-2s-3s-lipo-battery-charger-balancer-1732176107828380753 |
+| Battery charger             | Used to charge the battery                               | 1        | $2.15      | $2.15       | https://www.tokopedia.com/nayfastore/adaptor-charger-casan-mainan-anak-konektor-jst-xh-3-pin?extParam=ivf%3Dfalse%26keyword%3Dcharger+2s+lipo+%26search_id%3D20260314074611950A4152C2B4AA165OBI%26src%3Dsearch&t_id=1773472965470&t_st=4&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result |
 | XT30 Plug connector         | Allows battery to plug into BEC converter                | 1        | $0.53      | $0.53       | https://www.tokopedia.com/justshopit/amass-xt30-xt30u-plug-connector-female-male-lipo-battery-for-rc-fpv-drone-1729895395040659171 |
 | Heat shrink wire covers set | For cleaner and sturdier connections                     | 1        | $0.65      | $0.65       | https://www.tokopedia.com/skf88/heat-shrink-kabel-164-530pcs-isolasi-bakar-tube-selang-bakar-bahan-polyolefin-warna-warni-1732990049052886837 |
 | Wire stripper               | Used to strip wires                                      | 1        | $1.35      | $1.35       | https://www.tokopedia.com/neso-store/neso-german-tools-tang-kupas-potong-kabel-cod-6-7-9-inch-pemotong-wire-stripper-4in1-cutter-pliers-gunting-kupas-kabel-listrik-serbaguna-1731592431659091872 |
@@ -121,11 +121,11 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | Category                    | Cost       |
 |-----------------------------|------------|
 | G112 Rocket Motor           | $204.80    |
-| CO2 Recovery System         | $19.05     |
+| CO2 Recovery System         | $18.38     |
 | Rocket Body Construction    | $4.23      |
 | Launchpad and Igniter       | $15.59     |
 | Average Shipping            | $10        |
-| **Total Overall Cost**      | **$253.67**|
+| **Total Overall Cost**      | **$253**|
 
 **Notes:**
 - Some items have higher quantities due to minimum purchase requirements from suppliers.
