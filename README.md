@@ -82,7 +82,7 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | Silicone grease             | Used to seal the O-ring                                  | 1        | $10.94     | $10.94      | https://www.tokopedia.com/perkakasltc/crc-silicone-grease-code-3036-75ml-made-in-new-zealand |
 | **Total Cost**              |                                                          |          |            | **$204.80** | — |
 
-## 2. CO₂ Recovery System
+## 2. CO2 Recovery System
 | Item                        | Description                                              | Quantity | Unit Price | Total Price | Link                |
 |-----------------------------|----------------------------------------------------------|----------|------------|-------------|---------------------|
 | CO₂ Cartridges              | Used as the rapid expanding gas                          | 1        | $3.85      | $3.85       | https://www.tokopedia.com/tulungagung-outdoors-2/gas-co2-airsoft-murah-tulungagung-luar-jawa-wajib-pakai-pos-jangan-j-t-1731589478173344929 |
@@ -121,9 +121,10 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | Category                    | Cost       |
 |-----------------------------|------------|
 | G112 Rocket Motor           | $204.80    |
-| CO₂ Recovery System         | $19.05     |
+| CO2 Recovery System         | $19.05     |
 | Rocket Body Construction    | $4.23      |
 | Launchpad and Igniter       | $15.59     |
+| Average Shipping            | $10        |
 | **Total Overall Cost**      | **$253.67**|
 
 **Notes:**
