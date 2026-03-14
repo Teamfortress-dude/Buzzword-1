@@ -25,23 +25,23 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 -
 **Buzzword-1 Rocket Body** OnShape: https://cad.onshape.com/documents/6395d56e8419870e36c364c0/w/89d10f0ab768237c661b4cfe/e/bca3e17cd6460ee306ad322d?renderMode=0&uiState=69b3e32ecdfe32eec0c45201
 
-
+![Rocket](https://github.com/Teamfortress-dude/Buzzword-1/blob/d7384f797cf91f38cb4c7888cfbb38fb12c47360/Images/Screenshot%202026-03-13%20163620.png)
 
 **G112 EX Rocket Motor** OnShape: https://cad.onshape.com/documents/9d5704bc2d8bf989355a524c/w/8b6d99253b12667f572559fd/e/144e5694a96a8de6b9af8a30
 
-<img width="1500" height="690" alt="Screenshot 2026-02-26 173722" src="https://github.com/user-attachments/assets/b4b81dea-9e65-40cd-a8e1-7469fb6221a5" />
+![Motor](https://github.com/Teamfortress-dude/Buzzword-1/blob/b4fe3ca60aaf5aa921bbf6902df0dbb6c859bcbb/Images/Screenshot%202026-03-14%20075421.png)
 
 **CO2 Ejection System Frame** OnShape: https://cad.onshape.com/documents/45ce68cde51d3e3fd76b4ad7/w/09d733e07eaebf7fc37995c2/e/72d23b56d11aaa349a665c4d?renderMode=0&uiState=69b2befe830004c4b25ab341
 
-<img width="362" height="831" alt="Screenshot 2026-03-07 220704" src="https://github.com/user-attachments/assets/b3ecef12-a191-48f5-9cb9-f4d1c1420d0c" />
+![CO2](https://github.com/Teamfortress-dude/Buzzword-1/blob/12923384ccc2e0774f77c55309b292ba476fdb60/Images/Screenshot%202026-03-07%20220704.png)
 
 **Launch Pad Frame** OnShape: https://cad.onshape.com/documents/3f7ec817d1382ceb388e982a/w/608521341a8481e5177d8379/e/9c587c68358a26500574c930
 
-<img width="1256" height="685" alt="Screenshot 2026-03-08 221629" src="https://github.com/user-attachments/assets/7342fc94-2b95-47af-a884-247608fc515c" />
+![Launch](https://github.com/Teamfortress-dude/Buzzword-1/blob/c13c3a2cc058426196202bbfa954cf57e12833f0/Images/Screenshot%202026-03-13%20081818.png)
 
 **Wireless Igniter** OnShape: https://cad.onshape.com/documents/17522f05e2172b3d15a9535d/w/4dee14af77d33351ef336225/e/4c8c179b079365a7d7b485c3?renderMode=0&uiState=69b4f15531e57fabf6704945
 
-
+![Igniter](https://github.com/Teamfortress-dude/Buzzword-1/blob/f70bd3295bd95f7efc0cf5850cf32b11fff59c1f/Images/Screenshot%202026-03-14%20122412.png)
 
 **Wiring Diagrams**
 -
