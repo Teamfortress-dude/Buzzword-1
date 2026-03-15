@@ -60,7 +60,7 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 ## 1. G112 Rocket Motor
 | Item                        | Description                                              | Quantity | Unit Price | Total Price | Link                |
 |-----------------------------|----------------------------------------------------------|----------|------------|-------------|---------------------|
-| Nozzle                      | CNC nozzle made of 303 stainless steel                   | 1        | $56.17     | $56.17      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
+| Nozzle                      | CNC nozzle made of 304 stainless steel                   | 1        | $56.17     | $56.17      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
 | Casing                      | CNC casing made of 6061 aluminium                        | 1        | $57.10     | $57.10      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
 | Bulkhead                    | CNC bulkhead made of 6061 aluminium                      | 1        | $15.33     | $15.33      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
 | CNC Shipping                | Shipping cost                                            | 1        | $8.29      | $8.29       | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
