@@ -1,12 +1,12 @@
 G112 Rocket Motor,,,,
 Item,Description,Quantity,Unit Price ,Total Price 
 Nozzle,"CNC nozzle made 
-of 304 stainless steel",1,$56.17,$56.17
+of 304 stainless steel",1,$61.32,$61.32
 Casing,"CNC casing made of 
-6061 aluminium",1,$57.10,$57.10
+6061 aluminium",1,$61.66,$61.66
 Bulkhead,"CNC bulkhead made
-6061 aluminium",1,$15.33,$15.33
-CNC Shipping,Shipping cost,1,$8.29,$8.29
+6061 aluminium",1,$16.46,$16.46
+CNC Shipping,Shipping cost,1,$16.22,$16.22
 -121 O-ring,"O-ring used for sealing
 gases in casing",15,$0.09,$1.35
 H31 Snap ring,"Snap rings used to hold
@@ -40,7 +40,7 @@ propellant",1,$1.48,$1.48
 Angle grinder,"Used to process metal 
 parts",1,$9.33,$9.33
 Silicone grease,Used to seal the o-ring,1,$10.94,$10.94
-,,,Total Cost:,$204.80
+,,,Total Cost:,$223.57
 ,,,,
 ,,,,
 CO2 Recovery System,,,,
@@ -107,7 +107,7 @@ to ignite rocket motor",$2.00,$0.18,$0.36
 ,,,Total Cost:,$15.59
 ,,,,
 ,,,,
-Total Overall Cost:,$253,,Avg. Shipping Cost:,$10.00
+Total Overall Cost:,$271.77,,Avg. Shipping Cost:,$10.00
 ,,,,
 "Note: All these costs are 
 converted from Indonesian IDR
