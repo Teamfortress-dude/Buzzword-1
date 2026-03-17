@@ -60,9 +60,9 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 ## 1. G112 Rocket Motor
 | Item                        | Description                                              | Quantity | Unit Price | Total Price | Link                |
 |-----------------------------|----------------------------------------------------------|----------|------------|-------------|---------------------|
-| Nozzle                      | CNC nozzle made of 304 stainless steel                   | 1        | $61.32     | $56.17      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
-| Casing                      | CNC casing made of 6061 aluminium                        | 1        | $61.66     | $57.10      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
-| Bulkhead                    | CNC bulkhead made of 6061 aluminium                      | 1        | $16.46     | $15.33      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| Nozzle                      | CNC nozzle made of 304 stainless steel                   | 1        | $61.32     | $61.32     | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| Casing                      | CNC casing made of 6061 aluminium                        | 1        | $61.66     | $61.66      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| Bulkhead                    | CNC bulkhead made of 6061 aluminium                      | 1        | $16.46     | $16.46      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
 | CNC Shipping                | Shipping cost                                            | 1        | $16.22      | $16.22       | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
 | -121 O-ring                 | O-ring used for sealing gases in casing                  | 15       | $0.09      | $1.35       | https://www.tokopedia.com/ichibanseal/oring-as-121-26-6x2-62-id-26-6-mm-x-tebal-2-62-mm-nbr |
 | H31 Snap ring               | Snap rings used to hold nozzle and bulkhead in place     | 2        | $1.88      | $3.76       | https://www.tokopedia.com/ray-fasteners/ss304-snap-ring-stainless-h31-internal-circlip-snapring-type-h-31mm |
