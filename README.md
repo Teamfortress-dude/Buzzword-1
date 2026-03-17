@@ -60,10 +60,10 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 ## 1. G112 Rocket Motor
 | Item                        | Description                                              | Quantity | Unit Price | Total Price | Link                |
 |-----------------------------|----------------------------------------------------------|----------|------------|-------------|---------------------|
-| Nozzle                      | CNC nozzle made of 304 stainless steel                   | 1        | $56.17     | $56.17      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
-| Casing                      | CNC casing made of 6061 aluminium                        | 1        | $57.10     | $57.10      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
-| Bulkhead                    | CNC bulkhead made of 6061 aluminium                      | 1        | $15.33     | $15.33      | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
-| CNC Shipping                | Shipping cost                                            | 1        | $8.29      | $8.29       | https://drive.google.com/file/d/1TWItbi30Sfgs2MM2owyEYE39cYa_0umX/view?usp=sharing |
+| Nozzle                      | CNC nozzle made of 304 stainless steel                   | 1        | $61.32     | $56.17      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| Casing                      | CNC casing made of 6061 aluminium                        | 1        | $61.66     | $57.10      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| Bulkhead                    | CNC bulkhead made of 6061 aluminium                      | 1        | $16.46     | $15.33      | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
+| CNC Shipping                | Shipping cost                                            | 1        | $16.22      | $16.22       | https://drive.google.com/file/d/1qLKecg6mItu3cTvqQxj53dMOK-3eE3X2/view?usp=sharing |
 | -121 O-ring                 | O-ring used for sealing gases in casing                  | 15       | $0.09      | $1.35       | https://www.tokopedia.com/ichibanseal/oring-as-121-26-6x2-62-id-26-6-mm-x-tebal-2-62-mm-nbr |
 | H31 Snap ring               | Snap rings used to hold nozzle and bulkhead in place     | 2        | $1.88      | $3.76       | https://www.tokopedia.com/ray-fasteners/ss304-snap-ring-stainless-h31-internal-circlip-snapring-type-h-31mm |
 | 300 gsm kraft paper         | Used as a thermal liner between propellant and casing    | 15       | $0.24      | $3.60       | https://www.tokopedia.com/megajayaoffset/kertas-kraft-coklat-ukuran-plano-90x120-150-gsm-200-gsm-300-gsm-400-gsm-paper-stationery-1731305335833593809 |
@@ -80,7 +80,7 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 | 200 gsm kraft paper         | Used as a grain inhibitor                                | 1        | $0.53      | $0.53       | https://www.tokopedia.com/kraftboss/kertas-kraft-liner-samson-brown-kraft-coklat-uk-a4-paket-isi-50-termurah-paper-1730794130547704845 |
 | Angle grinder               | Used to process metal parts                              | 1        | $9.33      | $9.33       | https://www.tokopedia.com/alatlify/angle-grinder-mini-cordless-baterai-brushless-4inch-gerinda-mini-listrik-1050w-mesin-gerinda-tangan-portable-multifungsi-alat-listrik-rumah-1731891601936582326 |
 | Silicone grease             | Used to seal the O-ring                                  | 1        | $10.94     | $10.94      | https://www.tokopedia.com/perkakasltc/crc-silicone-grease-code-3036-75ml-made-in-new-zealand |
-| **Total Cost**              |                                                          |          |            | **$204.80** | — |
+| **Total Cost**              |                                                          |          |            | **$223.57** | — |
 
 ## 2. CO2 Recovery System
 | Item                        | Description                                              | Quantity | Unit Price | Total Price | Link                |
@@ -120,12 +120,12 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 ## Summary
 | Category                    | Cost       |
 |-----------------------------|------------|
-| G112 Rocket Motor           | $204.80    |
+| G112 Rocket Motor           | $223.57    |
 | CO2 Recovery System         | $18.38     |
 | Rocket Body Construction    | $4.23      |
 | Launchpad and Igniter       | $15.59     |
 | Average Shipping            | $10        |
-| **Total Overall Cost**      | **$253**|
+| **Total Overall Cost**      | **$271.77**|
 
 **Notes:**
 - Some items have higher quantities due to minimum purchase requirements from suppliers.
