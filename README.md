@@ -43,6 +43,10 @@ I wanted so badly to build my very own rocket, but the cost of manufacturing eve
 
 ![Igniter](https://github.com/Teamfortress-dude/Buzzword-1/blob/f70bd3295bd95f7efc0cf5850cf32b11fff59c1f/Images/Screenshot%202026-03-14%20122412.png)
 
+**KNSB Mold** OnShape: https://cad.onshape.com/documents/3a6b5b3d99b7bc82c2f6d8e7/w/60bf61435858e4b373d2f9f6/e/a12e0d0e7426bf0f7a0a3a54?renderMode=0&uiState=69bccfbf9e6301c5d72aff49
+
+![Mold](https://github.com/Teamfortress-dude/Buzzword-1/blob/25ede0475facf01a17e98244697d9458e635281b/Images/KNSB%20Mold)
+
 **Wiring Diagrams**
 -
 **CO2 Ejection System Wiring Diagram**
