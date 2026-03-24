@@ -16,6 +16,21 @@ The first model rocket I have ever made. It is a model rocket capable of reachin
 8. Stand back a minimum of 15 meters.
 9. Launch.
 
+**How the firmware roughly works**
+-
+To be honest, I'm not 100% sure how it works either as (I'm going to be completely honest) I used AI to assist me in the creation of it, but I can tell you how to use it.
+
+Igniter: 
+
+1. Connect to the ESP32 DevKit v1 via bluetooth.
+2. Here you can send it the required commands through the serial monitor.
+
+Ejection System:
+
+1. Have the ESP32-C3 Super Mini connected to your laptop via USB to lock the spring in place.
+2. Ensure you are connected to the igniter as the only way to arm the system is through there.
+3. Everything else is completely automatic.
+
 **Why I made it** 
 -
 Ever since I was 5 years old, I have always been very interested in aviation. I began learning about different aircraft at the age of 7, and it soon became a hobby of mine to study various planes. This eventually led me to playing Kerbal Space Program, where I designed various types of jet-powered aircraft. After about a month of playing (when I was around 13 years old), I tried to build my first rocket to orbit Kerbin (KSP's version of Earth). That was when I began to get fascinated with rockets. However, it wasn't until I was 15 that I started seriously learning about rocket mechanics, the history of rocketry, and large-scale rockets.
