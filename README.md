@@ -2,7 +2,7 @@
 
 **What is it?**
 -
-The first model rocket I have ever made. It is a model rocket capable of reaching a max altitude of 400+ meters. It uses a custom G112 motor designed using OnShape and other simulation softwares and uses KNSB as propellant.  It uses a CO2 ejection system. My goal with this project is to popularize model rocketry in Indonesia because currently, model rocketry is almost non-existant.
+The first model rocket I have ever made. It is a model rocket capable of reaching a max altitude of 400+ meters. It uses a custom G112 motor designed using OnShape and other simulation softwares and uses KNSB as propellant. It uses a CO2 ejection system. My goal with this project is to popularize model rocketry in Indonesia because currently, model rocketry is almost non-existant.
 
 **How it roughly works**
 -
@@ -18,8 +18,9 @@ The first model rocket I have ever made. It is a model rocket capable of reachin
 
 **Why I made it** 
 -
-Ever since I was 5 years old, I have always been very interested in aviation. I began learning about different aircraft at the age of 7, and it soon became a hobby of mine to study various planes. This eventually led me to playing Kerbal Space Program, where I designed different types of jet-powered aircraft. After about a month of playing (when I was around 13 years old), I tried to build my first rocket to orbit Kerbin (KSP's version of Earth). That was when I began to get fascinated with rockets. However, it wasn't until I was 15 that I started seriously learning about rocket mechanics, the history of rocketry, and large-scale rockets.
-I wanted so badly to build my very own rocket, but the cost of manufacturing even a model rocket held me back. It was only when I discovered the Blueprint program that I immediately got to work.
+Ever since I was 5 years old, I have always been very interested in aviation. I began learning about different aircraft at the age of 7, and it soon became a hobby of mine to study various planes. This eventually led me to playing Kerbal Space Program, where I designed various types of jet-powered aircraft. After about a month of playing (when I was around 13 years old), I tried to build my first rocket to orbit Kerbin (KSP's version of Earth). That was when I began to get fascinated with rockets. However, it wasn't until I was 15 that I started seriously learning about rocket mechanics, the history of rocketry, and large-scale rockets.
+
+I wanted to make a small scale model rocket but I soon realised just how unpopular model rocketry is in Indonesia, with small A class motors that usually cost 1-5$ in Canada costing over 90$ here. It was here where I decided I was going to build everything from scratch, including the motor. When I was about halfway through in just motor designing, I realised just how much this project was going to cost so I retired the project early. It was only when I discovered the Blueprint program that I immediately fired up the project again.
 
 **CAD**
 -
