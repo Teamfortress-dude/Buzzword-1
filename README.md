@@ -7,7 +7,7 @@ The first model rocket I have ever made. It is a model rocket capable of reachin
 **How it roughly works**
 -
 1. Cook KNSB rocket propellant and cast it into PET-CF molds.
-2. Create liner out of kraft paper and load in the grains each with a 2mm kraft paper seperator in between each grain.
+2. Create liner out of kraft paper and load in the grains each with a 2mm kraft paper separator in between each grain.
 3. Load into tail end section of rocket and secure using fastening plate.
 4. Set spring in CO2 piercer and load cartridge (ensure servo is powered during this process).
 5. Place CO2 ejector in the upper section and load the shock cord and parachute.
