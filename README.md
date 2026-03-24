@@ -18,7 +18,7 @@ The first model rocket I have ever made. It is a model rocket capable of reachin
 
 **How the firmware roughly works**
 -
-To be honest, I'm not 100% sure how it works either as (I'm going to be completely honest) I used AI to assist me in the creation of it, but I can tell you how to use it.
+I'm not 100% sure how it works either as (I'm going to be completely honest) I used AI to assist me in the creation of it, but I can tell you how to use it.
 
 Igniter: 
 
