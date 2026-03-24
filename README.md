@@ -13,7 +13,7 @@ The first model rocket I have ever made. It is a model rocket capable of reachin
 5. Place CO2 ejector in the upper section and load the shock cord and parachute.
 6. Place rocket on launch pad (ensure the launch rod is going through the launch lug).
 7. Insert igniter inside motor.
-8. Stand back a minium of 15 meters.
+8. Stand back a minimum of 15 meters.
 9. Launch.
 
 **Why I made it** 
